@@ -1,7 +1,4 @@
 # Music Tagger
-Windows desktop app that auto-tags MP3/FLAC/M4A files using MusicBrainz + Discogs — fixes artist/title/album/genre/label/ISRC and embeds cover art, with a searchable library, duplicate detection, and undo.
-
-# Music Tagger
 
 A Windows desktop app that scans a folder of audio files and automatically
 fixes their tags — artist, title, album, genre, label, ISRC, and cover art —
@@ -278,10 +275,3 @@ a time:
 Ideas for next steps: cover art thumbnails in the Library grid, exporting
 the library to CSV, and a "merge duplicate metadata" option that combines
 the best fields from each copy before deleting the rest.
-
-<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/9ab4f283-13d2-4e98-b27c-ad3b5b3c6392" />
-
-<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/90152b0e-dacd-4db9-bfa9-ae8ffe4234a9" />
-
-<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/9ec2a9b5-b03e-4665-b82e-39b33a698b9b" />
-
